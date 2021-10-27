@@ -8,4 +8,5 @@
 
 # Exclude Terraform state files
 
+terraform.tfstate
 *.tfstate.*
