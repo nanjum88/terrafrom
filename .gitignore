@@ -1,0 +1,11 @@
+# Exclude Local Terrafrom directory
+
+.terraform/*
+
+# Exclude Terraform Variable files
+
+*.tfvars
+
+# Exclude Terraform state files
+
+*.tfstate.*
