@@ -1,5 +1,6 @@
 # Exclude Local Terrafrom directory
 
+**/.terraform/*
 .terraform/
 
 # Exclude Terraform Variable files
