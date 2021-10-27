@@ -1,7 +1,7 @@
 provider "aws" {
     region = "us-west-2"
-    access_key = "AKIAZ3HYQLTJ7LIKD5FE"
-    secret_key = "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"
+    access_key = ""
+    secret_key = ""
 }
 
 variable "cidr_blocks" {
